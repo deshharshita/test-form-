@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+	background: url('https://png.pngtree.com/png-clipart/20191120/original/pngtree-yellow-emoji-expression-border-png-image_5044536.jpg');
+	background-size: cover;
+	padding-bottom: 50px;
+}
+header{
+	text-align: center;
+}
+form{
+	background: #ffffff;
+	border-radius: 30px;
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+}
+
+.long{
+	width: 90%;
+
+}
+
+div#submit{
+	margin: auto;
+	width: 20%;
+	padding: 30px;
+}
+input#submit{
+	padding: 15px;
+	width: 180%;
+	background: #5DADE2;
+	font-weight: bold;
+	font-size: 120%;
+}
+footer{
+	font-style: italic;
+	text-align: center;
+}
